@@ -1,0 +1,8 @@
+All trials will include 6 injection types denoted by:
+- 1 is B-Alanine
+- 2 is BAM 8-22
+- 3 is Cowhage
+- 4 is Capsaicin
+- 5 is Histamine
+- 6 is Saline
+
